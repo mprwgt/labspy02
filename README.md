@@ -1,6 +1,6 @@
 # **Cara Menentukan Bilangan Terbesar dari 3 buah Bilangan Menggunakan Python**
 
-**1.Masuk ke Terminal Python**
+**Masuk ke Terminal Python**
 
 Berikut gambar Sript untuk menentukan bilangan terbesar dari 3 buah bilangan
 
